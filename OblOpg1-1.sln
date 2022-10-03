@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OblOpg1-1", "OblOpg1-1\OblOpg1-1.csproj", "{C5AFCF39-AD04-455E-8126-A103B68D252A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOblOpg1-1", "TestOblOpg1-1\TestOblOpg1-1.csproj", "{504A510E-CC2B-4248-BF5E-A937CF974DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AFCF39-AD04-455E-8126-A103B68D252A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AFCF39-AD04-455E-8126-A103B68D252A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AFCF39-AD04-455E-8126-A103B68D252A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AFCF39-AD04-455E-8126-A103B68D252A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504A510E-CC2B-4248-BF5E-A937CF974DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504A510E-CC2B-4248-BF5E-A937CF974DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504A510E-CC2B-4248-BF5E-A937CF974DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504A510E-CC2B-4248-BF5E-A937CF974DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2F6E62-C394-4414-B0C8-2A22213AB5CB}
+	EndGlobalSection
+EndGlobal
